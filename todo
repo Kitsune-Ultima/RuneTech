@@ -1,0 +1,122 @@
+resources:
+mana weave thread       mana iron link      mana iron nugget            mana steel link      mana steel nugget
+mana weave cloth        mana iron chain     mana iron bar               mana steel chain     mana steel bar
+mana weave bolt         mana iron coil      mana iron pile/block        mana steel coil      mana steel pile/block
+
+magi weave thread       magi iron link      magi iron nugget            magi steel link      magi steel nugget
+magi weave cloth        magi iron chain     magi iron bar               magi steel chain     magi steel bar
+magi weave bolt         magi iron coil      magi iron pile/block        magi steel coil      magi steel pile/block
+
+rune weave thread       rune iron link      rune iron nugget            rune steel link      rune steel nugget
+rune weave cloth        rune iron chain     rune iron bar               rune steel chain     rune steel bar
+rune weave bolt         rune iron coil      rune iron pile/block        rune steel coil      rune steel pile/block
+
+ancient weave thread    ancient iron link   ancient iron nugget         ancient steel link   ancient steel nugget
+ancient weave cloth     ancient iron chain  ancient iron bar            ancient steel chain  ancient steel bar
+ancient weave bolt      ancient iron coil   ancient iron pile/block     ancient steel coil   ancient steel pile/block
+
+elder weave thread      elder iron link     elder iron nugget           elder steel link     elder steel nugget
+elder weave cloth       elder iron chain    elder iron bar              elder steel chain    elder steel bar
+elder weave bolt        elder iron coil     elder iron pile/block       elder steel coil     elder steel pile/block
+
+esoteric weave thread   esoteric iron link  esoteric iron nugget        esoteric steel link  esoteric steel nugget
+esoteric weave cloth    esoteric iron chain esoteric iron bar           esoteric steel chain esoteric steel bar
+esoteric weave bolt     esoteric iron coil  esoteric iron pile/block    esoteric steel coil  esoteric steel pile/block
+
+null weave thread       null iron link      null iron nugget            null steel link      null steel nugget
+null weave cloth        null iron chain     null iron bar               null steel chain     null steel bar
+null weave bolt         null iron coil      null iron pile/block        null steel coil      null steel pile/block
+
+armor:
+mana weave hood				mana iron chainmail coif			mana iron plate helm			mana steel chainmail coif			mana steel plate helm
+mana weave robe				mana iron chainmail hauberk			mana iron plate chestplate		mana steel chainmail hauberk		mana steel plate chestplate
+mana weave trousers			mana iron chainmail leggings		mana iron plate grieves			mana steel chainmail leggings		mana steel plate grieves
+mana weave boots			mana iron chainmail socks			mana iron plate boots			mana steel chainmail socks			mana steel plate boots
+
+magi weave hood				magi iron chainmail coif			magi iron plate helm			magi steel chainmail coif			magi steel plate helm
+magi weave robe				magi iron chainmail hauberk			magi iron plate chestplate		magi steel chainmail hauberk		magi steel plate chestplate
+magi weave trousers			magi iron chainmail leggings		magi iron plate grieves			magi steel chainmail leggings		magi steel plate grieves
+magi weave boots			magi iron chainmail socks			magi iron plate boots			magi steel chainmail socks			magi steel plate boots
+
+rune weave hood				rune iron chainmail coif			rune iron plate helm			rune steel chainmail coif			rune steel plate helm
+rune weave robe				rune iron chainmail hauberk			rune iron plate chestplate		rune steel chainmail hauberk		rune steel plate chestplate
+rune weave trousers			rune iron chainmail leggings		rune iron plate grieves			rune steel chainmail leggings		rune steel plate grieves
+rune weave boots			rune iron chainmail socks			rune iron plate boots			rune steel chainmail socks			rune steel plate boots
+
+ancient weave hood			ancient iron chainmail coif			ancient iron plate helm			ancient steel chainmail coif		ancient steel plate helm
+ancient weave robe			ancient iron chainmail hauberk		ancient iron plate chestplate	ancient steel chainmail hauberk		ancient steel plate chestplate
+ancient weave trousers		ancient iron chainmail leggings		ancient iron plate grieves		ancient steel chainmail leggings	ancient steel plate grieves
+ancient weave boots			ancient iron chainmail socks		ancient iron plate boots		ancient steel chainmail socks		ancient steel plate boots
+
+elder weave hood			elder iron chainmail coif			elder iron plate helm			elder steel chainmail coif			elder steel plate helm
+elder weave robe			elder iron chainmail hauberk		elder iron plate chestplate		elder steel chainmail hauberk		elder steel plate chestplate
+elder weave trousers		elder iron chainmail leggings		elder iron plate grieves		elder steel chainmail leggings		elder steel plate grieves
+elder weave boots			elder iron chainmail socks			elder iron plate boots			elder steel chainmail socks			elder steel plate boots
+
+esoteric weave hood			esoteric iron chainmail coif		esoteric iron plate helm		esoteric steel chainmail coif		esoteric steel plate helm
+esoteric weave robe			esoteric iron chainmail hauberk		esoteric iron plate chestplate	esoteric steel chainmail hauberk	esoteric steel plate chestplate
+esoteric weave trousers		esoteric iron chainmail leggings	esoteric iron plate grieves		esoteric steel chainmail leggings	esoteric steel plate grieves
+esoteric weave boots		esoteric iron chainmail socks		esoteric iron plate boots		esoteric steel chainmail socks		esoteric steel plate boots
+
+null weave hood				null iron chainmail coif			null iron plate helm			null steel chainmail coif			null steel plate helm
+null weave robe				null iron chainmail hauberk			null iron plate chestplate		null steel chainmail hauberk		null steel plate chestplate
+null weave trousers			null iron chainmail leggings		null iron plate grieves			null steel chainmail leggings		null steel plate grieves
+null weave boots			null iron chainmail socks			null iron plate boots			null steel chainmail socks			null steel plate boots
+
+ore: 
+copper ore
+silver ore
+tin ore
+nickel ore
+cinnabar ore
+mana crystal cluster
+ancient rubble
+elder essence
+esoteric growth
+null intrusion
+
+resource blocks
+copper block 		copper ingot stack
+silver block 		silver ingot stack
+tin block 			tin ingot stack
+nickel block 		nickel ingot stack
+bronze block 		bronze ingot stack
+brass block 		brass ingot stack
+
+structures:
+ancient portal room
+null obelisk
+
+tech armor:
+light power armor helm			medium power armor helm			heavy power armor helm 
+light power armor chestplate	medium power armor chestplate	heavy power armor chestplate 
+light power armor leggings		medium power armor leggings		heavy power armor leggings 
+light power armor boots			medium power armor boots 		heavy power armor boots
+
+power armor modules:
+module.step-assist
+module.swim-speed[1-5]
+module.protection[1-5]
+module.protection-fire[1-5]
+module.protection-projectile[1-5]
+module.protection-blast[1-5]
+module.re-breather
+module.plating-iron
+module.plating-steel
+module.plating-mana-iron
+module.plating-mana-steel
+module.plating-magi-iron
+module.plating-magi-steel
+module.plating-diamond
+module.plating-rune-iron
+module.plating-rune-steel
+module.plating-ancient-iron
+module.plating-ancient-steel
+module.plating-elder-iron
+module.plating-elder-steel
+module.plating-esoteric-iron
+module.plating-esoteric-steel
+module.plating-null-iron
+module.plating-null-steel
+module.force-field
+module.runic-shield[1-5]

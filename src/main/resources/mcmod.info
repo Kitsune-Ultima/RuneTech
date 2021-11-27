@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "runetech",
+    "name": "Rune Tech",
+    "description": "A technological approach to magic",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Kital_Stargazer"],
+    "credits": "Inspired by: Thaumcraft (v4.2.3.5), Immersive Engineering, Embers, and more",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
