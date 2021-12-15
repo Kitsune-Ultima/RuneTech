@@ -23,7 +23,7 @@ public class RuneTech {
 
     public static final String MOD_ID = "runetech";
     public static final String MOD_NAME = "RuneTech";
-    public static final String VERSION = "0.0.1-SNAPSHOT";
+    public static final String VERSION = "0.0.2-SNAPSHOT";
     public static final String ACCEPTED_VERSIONS = "[1.12.2]";
     public static final String CLIENT_PROXY_CLASS = "com.avalonmods.runetech.proxy.ClientProxy";
     public static final String COMMON_PROXY_CLASS = "com.avalonmods.runetech.proxy.CommonProxy";
